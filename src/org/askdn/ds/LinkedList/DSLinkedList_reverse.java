@@ -1,4 +1,4 @@
-package org.askdn.ds;
+package org.askdn.ds.LinkedList;
 
 import java.util.Stack;
 

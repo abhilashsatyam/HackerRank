@@ -1,4 +1,4 @@
-package org.askdn.ds;
+package org.askdn.ds.LinkedList;
 
 public class Node {
 
